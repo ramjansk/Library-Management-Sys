@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "Azad Mamun",
+  "author": "Ramjan Sk",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
